@@ -1,5 +1,7 @@
 # NLP-stockNewsBehavior
 
+Predicting stock price momentum based on the top 25 news headlines of that day.
+
 ## Introduction
 Predicting stock price momentum based on the top 25 news headlines of that day.
 
